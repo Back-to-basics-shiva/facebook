@@ -1,1 +1,3 @@
-this file contains string related functios
+we are updating this file 
+this file contains string related functio
+
